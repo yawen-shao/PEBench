@@ -2,8 +2,7 @@
 
 ## ✅ TODO List
 
- - [x] Prompt data
- - [x] Reference assets
+ - [x] Prompt data & Reference assets
  - [ ] Evaluation code
 
 ## 🌟 Citation
