@@ -2521,7 +2521,7 @@
   },
   {
     "capid": "169",
-    "prompt": "Dry wooden tables and chairs sit beneath a sky filled with gathering gray clouds. The sky darkens to medium gray as the first isolated raindrops begin to fall. Sky darkens to medium gray as first isolated raindrops fall.",
+    "prompt": "Dry wooden tables and chairs sit beneath a sky filled with gathering gray clouds. The sky darkens to medium gray as the first isolated raindrops begin to fall.",
     "duration": 5.0,
     "generation_type": "i2v",
     "task_category": "Action",
