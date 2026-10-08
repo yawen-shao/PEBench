@@ -73,7 +73,7 @@
   },
   {
     "capid": "005",
-    "prompt": "Based on the exterior shot in Image 1, use a first-person POV fast push-in shot into a close-up of the interior environment of the wooden cabin. A fawn from Image 2 and a sheep from Image 3 are drinking tea and chatting by the fireplace. The camera pushes in to a close-up of the teacup, with the cup design referencing Image 4.",
+    "prompt": "Based on the exterior shot in Image 1, use a first-person POV fast push-in shot into a close view of the interior environment of the wooden cabin. A fawn from Image 2 and a sheep from Image 3 are drinking tea and chatting by the fireplace. Push in to a close-up, with the teacup style referencing Image 4.",
     "duration": 10,
     "generation_type": "r2v",
     "task_category": "Narrative",
