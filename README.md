@@ -5,6 +5,30 @@
  - [x] Prompt data & Reference assets
  - [ ] Evaluation code
 
+## 💡 Overview
+
+<p align="center">
+    <img src="./images/overview.png" width="100%"/>
+</p>
+
+## 🏗️ Data Construction Pipeline
+
+<p align="center">
+    <img src="./images/data_construct.png" width="100%"/>
+</p>
+
+## 📊 Data Statistics and Diversity
+
+<p align="center">
+    <img src="./images/data_analysis.png" width="100%"/>
+</p>
+
+## 🔍 Qualitative Failure Cases
+
+<p align="center">
+    <img src="./images/fail_case.png" width="100%"/>
+</p>
+
 ## 🌟 Citation
 
 If you find this code useful for your research, please cite our paper:
