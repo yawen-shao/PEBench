@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2610.11736-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2610.11736)
+
 # Towards Unified Evaluation of Prompt Enhancers for Video Generation
 
 ## ✅ TODO List
@@ -38,10 +40,13 @@ Modern video generators can realize increasingly complex visual narratives, posi
 If you find this code useful for your research, please cite our paper:
 
 ```
-@article{PEBench,
-  title={Towards Unified Evaluation of Prompt Enhancers for Video Generation},
-  author={Shao, Yawen and Zhu, Yubo and Dai, Ziyun and Fang, Zixun and Zhu, Kai and Jiang, Zeyinzi and Ai, Yufeng and Sun, Siyang and Xue, Haolan and Shang, Yu and Bao, Yuxiang and Bi, Zoubin and Luo, Jingming and Xiao, Jie and Mao, Chaojie and Kan, Zhehan and Luo, Hongchen and Liu, Yu and Zhong, Sheng and Tong, Wei and Fu, Xueyang and Cao, Yang and Zhai, Wei and Zha, Zheng-Jun},
-  journal={arXiv preprint arXiv:2610.11736},
-  year={2026}
+@misc{PEBench,
+      title={Towards Unified Evaluation of Prompt Enhancers for Video Generation}, 
+      author={Yawen Shao and Yubo Zhu and Ziyun Dai and Zixun Fang and Kai Zhu and Zeyinzi Jiang and Yufeng Ai and Siyang Sun and Haolan Xue and Yu Shang and Yuxiang Bao and Zoubin Bi and Jingming Luo and Jie Xiao and Chaojie Mao and Zhehan Kan and Hongchen Luo and Yu Liu and Sheng Zhong and Wei Tong and Xueyang Fu and Yang Cao and Wei Zhai and Zheng-Jun Zha},
+      year={2026},
+      eprint={2610.11736},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.11736}, 
 }
 ```
